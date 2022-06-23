@@ -16,7 +16,7 @@ int main(){
 	double a=0,b=0,c=0,m=0;
 	int cont=0;
 	double x;
-	double e=0.001,e2=0.001; // tolerancia//
+	double e=0.0001,e2=0.001; // tolerancia//
 	
 	printf("Funcao x^3+x^2-x\n");
 

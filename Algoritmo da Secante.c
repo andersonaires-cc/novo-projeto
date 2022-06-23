@@ -4,7 +4,7 @@
 #include <stdio.h>
 #include <math.h>
 
-#define NO 100 // interações
+#define NO 1000 // interações
 #define TOL 1E-3 // toleranância (valor máx para eq. assumir)
 
 double func(double x){
